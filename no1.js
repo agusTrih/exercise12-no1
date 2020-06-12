@@ -1,4 +1,4 @@
 function onlineStore(user, product) {
     return `Terima kasih ${user} telah membeli produk ${product}`;
 }
-console.log(onlineStore("agus", "sayuran"));
+console.log(onlineStore("agus", "baju"));
